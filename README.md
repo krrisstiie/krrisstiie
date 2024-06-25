@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @krrisstiie
-- 👀 I’m interested in baking, crocheting, coding, STEM!!
-- 🌱 I’m currently learning javascript and python
+- 👀 I’m interested in crocheting, coding, finance, marketing, engineering, and STEM!!
+- 🌱 I’m currently learning Javascript, Python, and XCode
 - 📫 Reach me by email
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I knew no coding before high school
+- ⚡ Fun fact: I didn't know any coding before high school
 
 <!---
 krrisstiie/krrisstiie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
