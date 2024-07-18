@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krrisstiie
-- 👀 I’m interested in crocheting, coding, finance, marketing, engineering, and STEM!!
+- 👀 I’m interested in finance, marketing, medicine, software development, and STEM!!
 - 🌱 I’m currently learning Javascript, Python, and XCode
 - 📫 Reach me by email
 - 😄 Pronouns: she/her
